@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ipad.png
+img: delecampio.jpg
 category: Autores
 title: Delecampio José Menassa
 description: |
