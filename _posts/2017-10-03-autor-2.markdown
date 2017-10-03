@@ -1,0 +1,10 @@
+---
+layout: default
+img: dog.png
+category: Services
+title: Bruno Pitanga Silvares
+description: |
+---
+Escritor, atleta e médico, formado pela Universidade Gama Filho-RJ, com especialização em Ortopedia e traumatologia; Cirurgia no Ombro e do Cotovelo inscrito no CRM sob n. 6443. Pós graduado em Nutriendocrinologia - Dr. Lair Ribeiro-SP. Nutrologia Abran (Associação Brasileira de Nutrologia) SP.
+
+Palestrante. Atende desde 1995. Atua na área da medicina preventiva, gerenciamento do estresse, performance, emagrecimento e longevidade. Escreveu obras importantes como "Você Precisa Saber".
