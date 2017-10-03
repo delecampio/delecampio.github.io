@@ -1,0 +1,10 @@
+---
+layout: default
+img: ipad.png
+category: Autores
+title: Delecampio José Menassa
+description: |
+---
+Escritor, atleta e empresário do ramo imobiliário. Foi fundador e presidente de várias empresas entre as quais se destacam: Fundição Viemex; Ferro Forte Ltda; PPM Ind Com Ltda; DJM Ind Com Ltda; DJM Imobiliária Ltda. É Bacharel em Teologia pela Faculdade Unida de Vitória, Palestrante, Orador e Locutor.
+Formador da Escola Paulo Apóstolo. Conselheiro e Membro da RCC Estadual. Conselheiro da Rádio Diocesana de Cachoeiro.
+No exercício de suas atividades empresariais foi Presidente da Associação Vilagindo do Credirochas. Conselheiro Fundador da Messe em Cachoeiro de Itapemirim. Conselheiro Diretor do conselho Banco Sicoob Credirochas; Conselheiro da Associação Maquirocha.
