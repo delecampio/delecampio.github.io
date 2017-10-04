@@ -6,11 +6,12 @@ url: ""
 title: Saúde, como aumentar sua expectativa de vida
 email: martinusso@gmail.com
 author: Delecampio José Menassa
-description: > # "Write an awesome description for your new site here. 
+description: > # "Write an awesome description for your new site here.
   Conhecimento sobre saúde te levará à longevidade saudável.
   Aumente sua expectativa de vida!
 copyright: 'Copyright &copy; 2017 Delecampio José Menassa. Todos os direitos reservados.'
 credits: 'Conhecimento sobre saúde te levará à longevidade saudável. Aumente sua expectativa de vida!'
+link_compra: 'https://produto.mercadolivre.com.br/MLB-911696596-livro-saude-como-aumentar-sua-expectativa-de-vida-_JM'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -31,4 +32,3 @@ social:
   - title: Bruno
     url: https://www.facebook.com/bruno.p.silvares
     type: facebook
-  
